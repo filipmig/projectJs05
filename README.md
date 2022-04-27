@@ -1,1 +1,1 @@
-# projectJs05
+This is application JS "Weather app"
